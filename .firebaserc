@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-github-67ddf": {
+      "hosting": {
+        "github-firebase": [
+          "angular-firebase-github-67ddf"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-github-67ddf"
+  }
+}

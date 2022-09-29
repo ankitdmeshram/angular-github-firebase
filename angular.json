@@ -98,6 +98,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "github-firebase:build:production",
+            "firebaseProject": "angular-firebase-github-67ddf",
+            "firebaseHostingSite": "angular-firebase-github-67ddf"
+          }
         }
       }
     }

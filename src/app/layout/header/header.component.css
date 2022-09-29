@@ -1,0 +1,6 @@
+* {
+  color: white !important;
+}
+.active {
+  border-bottom: 1px dashed white;
+}
